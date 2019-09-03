@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="names">
+        <item>Home</item>
+        <item>About</item>
+        <item>Contact</item>
+        <item>Address</item>
+        <item>More</item>
+    </string-array>
+</resources>
